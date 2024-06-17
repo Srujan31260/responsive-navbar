@@ -1,0 +1,12 @@
+body{
+    background: url('ima1.jpg') no-repeat center center/cover;
+}
+.myh1{
+    text-align: center;
+    padding: 20px;
+    max-height: 700px;
+}
+.myp1{
+    text-align: center;
+    padding: 5px;
+}
